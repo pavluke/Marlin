@@ -33,3 +33,4 @@
 //
 #define REQUIRE_LPC1769
 #include "../lpc1768/pins_BTT_SKR_V1_4.h" // ... BTT_SKR_common
+#include "pins_BTT_SKR_V1_4_TURBO_overrides.h"
